@@ -6,11 +6,7 @@ import json
 
 --------------------------------------------------
 
-ckey = "W4AgF66h1bM4u9f9VwO0MaNeg"
-csecret = "8M1L0RE7Sssav2KRDzdWTJsu0VQJiQj3az2mxwmr59FTDSGf2p"
-atoken = "301140584-XiiZWps5D4Qol0C7iJIK8lib3HvJ5LJDGaCKpuXW"
-asecret = "yW4vQynMPMDUn3l1Gh8DDwXlrX43reetlfsN6avzGP7BQ"
-
+Twitter credentials
 
 ----------------------------------------------------------
 
